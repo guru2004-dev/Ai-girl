@@ -1,0 +1,16 @@
+
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+pip-log.txt
+pip-delete-this-directory.txt
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
